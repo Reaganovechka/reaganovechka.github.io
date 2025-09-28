@@ -1,5 +1,5 @@
 # Reagan Ovechka
-<img src="https://github.com/user-attachments/assets/bf31db2c-5c6a-4f9c-bf65-90dae4b1946c" width "50">
+<img src="https://github.com/user-attachments/assets/bf31db2c-5c6a-4f9c-bf65-90dae4b1946c" width "50"/>
 
 ## About me
 She/Her
