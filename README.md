@@ -3,11 +3,10 @@
     display: flex;
     align-items: center;   /* vertically center image + text */
     gap: 20px;             /* space between image and text */
-    flex-wrap: wrap;       /* lets text drop below if screen too narrow */
   }
 
   .about-container img {
-    width: 200px;          /* control image size */
+    width: 400px;          /* control image size */
     border-radius: 8px;    /* rounded corners */
     flex-shrink: 0;        /* prevents image from squishing */
   }
