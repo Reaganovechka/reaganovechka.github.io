@@ -10,7 +10,7 @@
 
   <h2> Education </h2>
     <ul> 
-      <li> I play piccolo in the BSU marching band! </li>
+      <li> Plays piccolo in the BSU marching band </li>
       <li> Officer for Phi Sigma Rho (Sorority for women in STEM) </li>
       <li> Member of BSU club softball </li>
       <li> Avid plant enthusiast </li>
