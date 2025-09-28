@@ -1,5 +1,5 @@
 # Reagan Ovechka
-<img src="https://github.com/user-attachments/assets/bf31db2c-5c6a-4f9c-bf65-90dae4b1946c" width "50"/>
+![Photo at Capitol](https://github.com/user-attachments/assets/d5c26e74-920f-4ba9-8699-8cb6fbe1f889)
 
 ## About me
 She/Her
