@@ -11,7 +11,7 @@ Expected graduation May 2028
 ### Interests
 I play piccolo in the BSU marching band! <br/>
 Officer for Phi Sigma Rho, a sorority for women in stem <br/>
-Member of BSU club softball </br>
+Member of BSU club softball <br/>
 Avid plant enthusiast 
 
 
