@@ -5,14 +5,14 @@
 She/Her
 
 ### Education
-Persuing BS in Computer Science with Machine Learning Emphasis at Boise State University
+Persuing BS in Computer Science with Machine Learning Emphasis at Boise State University <br/>
 Expected graduation May 2028
 
 ### Interests
-I play piccolo in the BSU marching band!
-Officer for Phi Sigma Rho, a sorority for women in stem
-Member of BSU club softball
-Avid plant enthusiast
+I play piccolo in the BSU marching band! <br/>
+Officer for Phi Sigma Rho, a sorority for women in stem <br/>
+Member of BSU club softball </br>
+Avid plant enthusiast 
 
 
 
