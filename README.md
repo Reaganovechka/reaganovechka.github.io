@@ -1,15 +1,15 @@
 <style>
   .about-container {
     display: flex;
-    align-items: center;   /* keeps image vertically centered with text */
+    align-items: center;   /* vertically center image + text */
     gap: 20px;             /* space between image and text */
-    flex-wrap: wrap;       /* allows wrapping if screen gets very narrow */
+    flex-wrap: wrap;       /* lets text drop below if screen too narrow */
   }
 
   .about-container img {
-    width: 200px;
-    border-radius: 8px;
-    flex-shrink: 0;        /* keeps image from shrinking too small */
+    width: 200px;          /* control image size */
+    border-radius: 8px;    /* rounded corners */
+    flex-shrink: 0;        /* prevents image from squishing */
   }
 </style>
 
