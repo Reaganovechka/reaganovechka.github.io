@@ -2,12 +2,12 @@
   .about-container {
     display: flex;
     align-items: center;   /* vertically center image + text */
-    gap: 20px;             /* space between image and text */
+    gap: 30px;             /* space between image and text */
   }
 
   .about-container img {
     width: 400px;          /* control image size */
-    border-radius: 8px;    /* rounded corners */
+    border-radius: 9px;    /* rounded corners */
     flex-shrink: 0;        /* prevents image from squishing */
   }
 </style>
