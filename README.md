@@ -7,14 +7,14 @@
   }
 
   .about-container img {
-    width: 400px;          /* control image size */
+    width: 200px;          /* control image size */
     border-radius: 8px;    /* rounded corners */
     flex-shrink: 0;        /* prevents image from squishing */
   }
 </style>
 
 <div class="about-container">
-  <img src="https://github.com/Reaganovechka/reaganovechka.github.io/blob/main/Photo%20at%20Capitol.JPEG?raw=true" >
+  <img src="https://github.com/Reaganovechka/reaganovechka.github.io/blob/main/Photo%20at%20Capitol.JPEG?raw=true" alt="About me photo">
   <div>
     <h1> About me </h1>
       <p> She/Her </p>
