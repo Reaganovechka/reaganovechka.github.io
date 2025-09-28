@@ -1,6 +1,6 @@
-
-![Photo at Capitol](https://github.com/user-attachments/assets/d5c26e74-920f-4ba9-8699-8cb6fbe1f889)
-
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/Reaganovechka/reaganovechka.github.io/blob/main/Photo%20at%20Capitol.JPEG?raw=true"  width="200" style="margin-right: 20px;">
+  <p>
 ## About me
 She/Her
 
@@ -13,6 +13,9 @@ I play piccolo in the BSU marching band! <br/>
 Officer for Phi Sigma Rho, a sorority for women in stem <br/>
 Member of BSU club softball <br/>
 Avid plant enthusiast 
+</p>
+</div>
+
 
 
 
