@@ -1,4 +1,4 @@
-# Hi! I am Reagan Ovechka
+
 ![Photo at Capitol](https://github.com/user-attachments/assets/d5c26e74-920f-4ba9-8699-8cb6fbe1f889)
 
 ## About me
