@@ -1,25 +1,19 @@
 <style>
   .about-container {
     display: flex;
-    align-items: center;
-    gap: 20px; /* space between image and text */
-    flex-wrap: wrap; /* allows stacking on small screens */
+    align-items: center;   /* keeps image vertically centered with text */
+    align-text: center;    /* Keep image horizontally centered */
+    gap: 20px;             /* space between image and text */
+    flex-wrap: wrap;       /* allows wrapping if screen gets very narrow */
   }
 
   .about-container img {
     width: 200px;
     border-radius: 8px;
-    flex-shrink: 0; /* prevents image from shrinking too small */
-  }
-
-  @media (max-width: 600px) {
-    .about-container {
-      flex-direction: column; /* stack image above text */
-      align-items: center;    /* center everything on mobile */
-      text-align: center;
-    }
+    flex-shrink: 0;        /* keeps image from shrinking too small */
   }
 </style>
+
 <div class="about-container">
   <img src="https://github.com/Reaganovechka/reaganovechka.github.io/blob/main/Photo%20at%20Capitol.JPEG?raw=true"  width="400" style="margin-right: 20px; border-radius: 8px;">
   <div>
