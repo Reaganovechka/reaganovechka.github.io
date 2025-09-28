@@ -2,13 +2,25 @@
   .about-container {
     display: flex;
     align-items: center;   /* vertically center image + text */
-    gap: 30px;             /* space between image and text */
+    gap: 20px;             /* space between image and text */
   }
 
   .about-container img {
-    width: 400px;          /* control image size */
-    border-radius: 9px;    /* rounded corners */
-    flex-shrink: 0;        /* prevents image from squishing */
+    width: 200px;          /* size of image */
+    border-radius: 8px;    /* rounded corners */
+    flex-shrink: 0;        /* keeps image from squishing */
+  }
+
+  /* Mobile screens: stack image above text */
+  @media (max-width: 768px) {
+    .about-container {
+      flex-direction: column;  /* stack vertically */
+      text-align: center;      /* center text under image */
+    }
+
+    .about-container img {
+      margin-bottom: 15px;     /* space between image and text */
+    }
   }
 </style>
 
