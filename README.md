@@ -2,7 +2,6 @@
   .about-container {
     display: flex;
     align-items: center;   /* keeps image vertically centered with text */
-    align-text: center;    /* Keep image horizontally centered */
     gap: 20px;             /* space between image and text */
     flex-wrap: wrap;       /* allows wrapping if screen gets very narrow */
   }
